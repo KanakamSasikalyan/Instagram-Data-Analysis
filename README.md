@@ -1,4 +1,5 @@
 # Instagram Data Analysis  
-![image](https://user-images.githubusercontent.com/67740644/123454718-82ee5900-d5fe-11eb-8562-8e4cb5ddeceb.png)  ![image](https://user-images.githubusercontent.com/67740644/123454970-c6e15e00-d5fe-11eb-93b7-02c16ea2cc59.png)
+![image](https://user-images.githubusercontent.com/67740644/123454718-82ee5900-d5fe-11eb-8562-8e4cb5ddeceb.png)  ![image](https://user-images.githubusercontent.com/67740644/123454970-c6e15e00-d5fe-11eb-93b7-02c16ea2cc59.png) ![image](https://user-images.githubusercontent.com/67740644/123455099-f3957580-d5fe-11eb-82ac-44c4ab879484.png)
+
 
 
